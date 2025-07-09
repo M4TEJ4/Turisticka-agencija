@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Turisticka-agencija/static/css/main.62aeb724.css",
-    "main.js": "/Turisticka-agencija/static/js/main.290ebebf.js",
+    "main.css": "/Turisticka-agencija/static/css/main.64c5450f.css",
+    "main.js": "/Turisticka-agencija/static/js/main.ac6ba210.js",
     "static/js/453.bc22fe80.chunk.js": "/Turisticka-agencija/static/js/453.bc22fe80.chunk.js",
     "static/media/Hero.jpg": "/Turisticka-agencija/static/media/Hero.ed867fca03398ccc484a.jpg",
     "static/media/Austrija.png": "/Turisticka-agencija/static/media/Austrija.172103ee8d599817cfe6.png",
@@ -13,12 +13,12 @@
     "static/media/instagram.svg": "/Turisticka-agencija/static/media/instagram.152db2822cb6701edb9665eb34057c19.svg",
     "static/media/youtube.svg": "/Turisticka-agencija/static/media/youtube.d1adeb75d8b88eafbbb306f9b8c19a0c.svg",
     "static/media/X.svg": "/Turisticka-agencija/static/media/X.6dbea9cdd1caf77c7447e0540af1d309.svg",
-    "main.62aeb724.css.map": "/Turisticka-agencija/static/css/main.62aeb724.css.map",
-    "main.290ebebf.js.map": "/Turisticka-agencija/static/js/main.290ebebf.js.map",
+    "main.64c5450f.css.map": "/Turisticka-agencija/static/css/main.64c5450f.css.map",
+    "main.ac6ba210.js.map": "/Turisticka-agencija/static/js/main.ac6ba210.js.map",
     "453.bc22fe80.chunk.js.map": "/Turisticka-agencija/static/js/453.bc22fe80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62aeb724.css",
-    "static/js/main.290ebebf.js"
+    "static/css/main.64c5450f.css",
+    "static/js/main.ac6ba210.js"
   ]
 }
