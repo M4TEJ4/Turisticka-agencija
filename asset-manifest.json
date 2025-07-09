@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Turisticka-agencija/static/css/main.bf5ac133.css",
+    "main.js": "/Turisticka-agencija/static/js/main.d3bf978d.js",
+    "static/js/453.bc22fe80.chunk.js": "/Turisticka-agencija/static/js/453.bc22fe80.chunk.js",
+    "static/media/Hero.jpg": "/Turisticka-agencija/static/media/Hero.ed867fca03398ccc484a.jpg",
+    "index.html": "/Turisticka-agencija/index.html",
+    "main.bf5ac133.css.map": "/Turisticka-agencija/static/css/main.bf5ac133.css.map",
+    "main.d3bf978d.js.map": "/Turisticka-agencija/static/js/main.d3bf978d.js.map",
+    "453.bc22fe80.chunk.js.map": "/Turisticka-agencija/static/js/453.bc22fe80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5ac133.css",
+    "static/js/main.d3bf978d.js"
+  ]
+}
