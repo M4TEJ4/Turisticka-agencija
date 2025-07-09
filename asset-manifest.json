@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Turisticka-agencija/static/css/main.ad31b7b0.css",
-    "main.js": "/Turisticka-agencija/static/js/main.b7e89fd0.js",
+    "main.css": "/Turisticka-agencija/static/css/main.0accee67.css",
+    "main.js": "/Turisticka-agencija/static/js/main.af45e45e.js",
     "static/js/453.bc22fe80.chunk.js": "/Turisticka-agencija/static/js/453.bc22fe80.chunk.js",
     "static/media/Hero.jpg": "/Turisticka-agencija/static/media/Hero.ed867fca03398ccc484a.jpg",
     "static/media/Austrija.png": "/Turisticka-agencija/static/media/Austrija.172103ee8d599817cfe6.png",
     "static/media/Italija.png": "/Turisticka-agencija/static/media/Italija.790ec5b422cdd69e1199.png",
     "static/media/Spanija.png": "/Turisticka-agencija/static/media/Spanija.b930241f51f66ea440fb.png",
     "static/media/Francuska.png": "/Turisticka-agencija/static/media/Francuska.baa1ea7e9a4fcb85a7fd.png",
+    "static/media/Popust-slika.jpg": "/Turisticka-agencija/static/media/Popust-slika.429583ff6c7261bd10a5.jpg",
     "index.html": "/Turisticka-agencija/index.html",
-    "main.ad31b7b0.css.map": "/Turisticka-agencija/static/css/main.ad31b7b0.css.map",
-    "main.b7e89fd0.js.map": "/Turisticka-agencija/static/js/main.b7e89fd0.js.map",
+    "main.0accee67.css.map": "/Turisticka-agencija/static/css/main.0accee67.css.map",
+    "main.af45e45e.js.map": "/Turisticka-agencija/static/js/main.af45e45e.js.map",
     "453.bc22fe80.chunk.js.map": "/Turisticka-agencija/static/js/453.bc22fe80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad31b7b0.css",
-    "static/js/main.b7e89fd0.js"
+    "static/css/main.0accee67.css",
+    "static/js/main.af45e45e.js"
   ]
 }
