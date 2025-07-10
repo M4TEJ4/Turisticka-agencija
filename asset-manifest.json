@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3774c50c.css",
+    "main.js": "/static/js/main.a283498c.js",
+    "static/js/453.bc22fe80.chunk.js": "/static/js/453.bc22fe80.chunk.js",
+    "static/media/Rim.jpg": "/static/media/Rim.0fb1a886874e37c669e7.jpg",
+    "static/media/Hero.jpg": "/static/media/Hero.ed867fca03398ccc484a.jpg",
+    "static/media/Austrija.png": "/static/media/Austrija.172103ee8d599817cfe6.png",
+    "static/media/Italija.png": "/static/media/Italija.790ec5b422cdd69e1199.png",
+    "static/media/Spanija.png": "/static/media/Spanija.b930241f51f66ea440fb.png",
+    "static/media/Francuska.png": "/static/media/Francuska.baa1ea7e9a4fcb85a7fd.png",
+    "static/media/Popust-slika.jpg": "/static/media/Popust-slika.429583ff6c7261bd10a5.jpg",
+    "static/media/barselona.jpg": "/static/media/barselona.55375d021029317d93f8.jpg",
+    "static/media/Cinque.jpg": "/static/media/Cinque.59b70377b2fc3072905d.jpg",
+    "static/media/Venecija.jpg": "/static/media/Venecija.c4e9efefbba036d45bb9.jpg",
+    "static/media/Nica.jpg": "/static/media/Nica.02bc1214ef1c30fed5e7.jpg",
+    "static/media/Kolmar.jpg": "/static/media/Kolmar.4963d5e203bcb5aa326d.jpg",
+    "static/media/Milano.jpg": "/static/media/Milano.b5adb510e07970b039de.jpg",
+    "static/media/Bec.jpg": "/static/media/Bec.2a519a1403066ff96b5b.jpg",
+    "static/media/Pariz.jpg": "/static/media/Pariz.38f9604aa747767c2e64.jpg",
+    "static/media/Valensija.jpg": "/static/media/Valensija.a7e2b05581d061323b4f.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.152db2822cb6701edb9665eb34057c19.svg",
+    "index.html": "/index.html",
+    "static/media/youtube.svg": "/static/media/youtube.d1adeb75d8b88eafbbb306f9b8c19a0c.svg",
+    "static/media/X.svg": "/static/media/X.6dbea9cdd1caf77c7447e0540af1d309.svg",
+    "main.3774c50c.css.map": "/static/css/main.3774c50c.css.map",
+    "main.a283498c.js.map": "/static/js/main.a283498c.js.map",
+    "453.bc22fe80.chunk.js.map": "/static/js/453.bc22fe80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3774c50c.css",
+    "static/js/main.a283498c.js"
+  ]
+}
